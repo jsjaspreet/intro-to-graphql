@@ -6,6 +6,25 @@
 
 ---
 
+## Typical REST API
+
+![rest-api](https://olegilyenko.github.io/presentation-graphql-introduction/assets/img/rest-api.svg)
+
+---
+
+## Problems
+
+- Over / Under Fetch |
+    - endpoints giving too much/little data |
+- Documentatioon |
+    - Swagger, RAML 
+    - code comments? |
+- Rigid |
+    - versioning
+    - frontend / backend coupling
+
+---
+
 ## What is GraphQL?
 
 GraphQL is a query language for your API and a runtime for fulfilling those queries with your existing data
