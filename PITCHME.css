@@ -1,9 +1,3 @@
-.reveal section img {
-    border: 0;
-    box-shadow: none;
-}
-
-#graphql-logo {
-    border: 0;
-    box-shadow: none;
+h2 {
+    text-transform: none;
 }
