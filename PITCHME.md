@@ -8,7 +8,7 @@
 
 ## Typical REST API
 
-![rest-api](https://olegilyenko.github.io/presentation-graphql-introduction/assets/img/rest-api.svg)
+<img style="width: 700px; border: none; box-shadow: none;" src="https://olegilyenko.github.io/presentation-graphql-introduction/assets/img/rest-api.svg"/>
 
 ---
 
