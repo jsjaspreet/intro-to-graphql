@@ -14,7 +14,7 @@ GraphQL is a query language for your API and a runtime for fulfilling those quer
 
 ## Describe your data
 
-```graphql
+```javascript
 type Store {
   id: ID!
   name: String
