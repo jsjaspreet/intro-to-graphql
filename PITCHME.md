@@ -2,7 +2,7 @@
 
 # Intro to GraphQL
 
-![GraphQL](http://graphql.org/img/logo.svg)
+<img id="graphql-logo" src="http://graphql.org/img/logo.svg"/>
 
 ---
 
