@@ -21,9 +21,7 @@ const stores = [
 const db = {
   getStoreById(id) {
     console.log("Getting store for id : ", id);
-    return stores.find(store => {
-      return store.id === id
-    });
+    return stores.find(store => store.id === id);
   },
   getCouponsForStore(storeId) {
     console.log("Getting coupons for storeId : ", storeId);
