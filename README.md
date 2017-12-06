@@ -9,3 +9,4 @@ To run the demo:
   - `cd demo`
   - `yarn | npm i`
   - `node app.js`
+  - graphiql should be running at `localhost:4040/graphql`
