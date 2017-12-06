@@ -50,7 +50,7 @@ type Coupon {
 
 type Store {
   id: ID!
-  name: String
+  name: String!
   coupons: [Coupon]
 }
 ```
