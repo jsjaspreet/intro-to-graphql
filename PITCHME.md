@@ -55,6 +55,10 @@ type Store {
 }
 ```
 
+Note:
+- `!` implies non-nullable
+- square bracket notation implies array
+
 ---
 
 ## Ask for what you want
