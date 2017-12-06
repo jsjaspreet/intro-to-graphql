@@ -15,15 +15,14 @@
 ## Problems
 
 - Over / Under Fetch |
-    - endpoints giving too much/little data | 
-|
-- Documentation | 
+    - endpoints giving too much/little data |
+- Documentation |
     - Swagger, RAML
     - code comments? |
 - Rigid |
     - versioning
     - frontend / backend coupling
-
+    
 ---
 
 ## What is GraphQL?
