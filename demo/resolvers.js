@@ -7,6 +7,6 @@ const resolvers = {
   Query: {
     store: (_, { id }) => db.getStoreById(id),
   }
-}
+};
 
-module.exports = resolvers
+module.exports = resolvers;

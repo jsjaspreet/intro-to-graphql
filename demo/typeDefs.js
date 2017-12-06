@@ -21,6 +21,6 @@ const typeDefs = `
     # retrieves a store by store id
     store(id: ID!): Store
   }
-`
+`;
 
-module.exports = typeDefs
+module.exports = typeDefs;

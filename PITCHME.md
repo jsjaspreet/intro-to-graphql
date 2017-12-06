@@ -96,5 +96,15 @@ Note:
 
 ---
 
-## Demo Time!
+## Demo !
+
+---
+
+## Topics I didn't cover
+
+- mutations
+- caching
+- authentication
+- schema-stitching
+- apollo / relay
 
