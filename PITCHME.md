@@ -15,10 +15,11 @@
 ## Problems
 
 - Over / Under Fetch |
-    - endpoints giving too much/little data |
+  - endpoints giving too much/little data |
+|
 - Documentation |
-    - Swagger, RAML
-    - code comments? |
+  - Swagger, RAML
+  - code comments? 
 - Rigid |
     - versioning
     - frontend / backend coupling
