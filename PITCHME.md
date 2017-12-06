@@ -10,6 +10,11 @@
 
 <img style="width: 700px; border: none; box-shadow: none;" src="https://olegilyenko.github.io/presentation-graphql-introduction/assets/img/rest-api.svg"/>
 
+Note:  
+- usually an arbitrary endpoint, in the wild most APIs are not truly RESTful
+- no standard way to control output of the endpoint
+    - do you make another endpoint? special query params?
+
 ---
 
 ## Problems
