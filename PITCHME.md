@@ -16,8 +16,8 @@
 
 - Over / Under Fetch |
     - endpoints giving too much/little data |
-- Documentatioon |
-    - Swagger, RAML 
+- Documentation |
+    - Swagger, RAML
     - code comments? |
 - Rigid |
     - versioning
