@@ -34,6 +34,11 @@ GraphQL is a query language for your API and a runtime for fulfilling those quer
 ## Describe your data
 
 ```
+type Coupon {
+  storeId: ID!
+  code: String!
+}
+
 type Store {
   id: ID!
   name: String
@@ -49,6 +54,9 @@ type Store {
 {
   store(id: "200") {
     name
+    coupons {
+      code
+    }
   }
 }
 ```
@@ -61,6 +69,14 @@ type Store {
 {
   "store": {
     "name": "Macy's"
+    "coupons": [
+      {
+        code: "10-OFF"
+      },
+      {
+        code: "20-OFF"
+      }
+    ]
   }
 }
 ```
