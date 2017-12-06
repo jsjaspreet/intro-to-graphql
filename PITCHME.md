@@ -34,6 +34,10 @@ Note:
 
 GraphQL is a query language for your API and a runtime for fulfilling those queries with your existing data
 
+Note:
+- graphql itself is just a spec, countless implementations of graphql in many languages (python -> graphene)
+    - main implementation just happens to be js 
+    - GraphQL was originally created in 2012 at Facebook
 ---
 
 ## Describe your data
