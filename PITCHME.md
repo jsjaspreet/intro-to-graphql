@@ -100,11 +100,12 @@ Note:
 
 ---
 
-## Topics I didn't cover
+## Topics to look into next
 
+- fragments / directives
 - mutations
 - caching
 - authentication
-- schema-stitching
+- schema-stitching (graphql microservices)
 - apollo / relay
 
