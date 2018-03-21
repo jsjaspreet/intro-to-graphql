@@ -1,4 +1,4 @@
-# [intro-to-graphql](gitpitch.com/jsjaspreet/intro-to-graphql)
+# [intro-to-graphql](https://gitpitch.com/jsjaspreet/intro-to-graphql)
 
 GraphQL Intro presentation
 
